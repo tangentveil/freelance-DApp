@@ -22,4 +22,6 @@ To create a decentralized freelancing platform that empowers clients and freelan
 
 ## Contract Details: 0xf2d286150C81090B66d52792a85a1D95631e394D
 
+![image](https://github.com/user-attachments/assets/fa9c8f94-f473-4f04-9ff1-6bef7059cf51)
+
 ---
