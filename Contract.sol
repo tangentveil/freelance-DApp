@@ -50,6 +50,7 @@ contract FreelanceDApp {
         jobCount++;
     }
 
+    // This function helps in accepting the job
     function acceptJob(uint _jobId) public {
         Job storage job = jobs[_jobId];
         require(job.status == JobStatus.Open, "Job is not open for acceptance");
