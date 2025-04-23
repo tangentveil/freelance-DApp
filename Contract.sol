@@ -61,6 +61,7 @@ contract FreelanceDApp {
         emit JobAccepted(_jobId, msg.sender);
     }
 
+    // This function helps in completing the job
     function completeJob(uint _jobId) public onlyClient(_jobId) {
         Job storage job = jobs[_jobId];
         require(job.status == JobStatus.InProgress, "Job is not in progress");
