@@ -72,7 +72,7 @@ contract FreelanceDApp {
         emit JobCompleted(_jobId, job.freelancer);
     }
 
-    // This function helps in getting the job
+    
     function getJob(uint _jobId) public view returns (
         uint, address, string memory, string memory, uint, address, JobStatus
     ) {
