@@ -32,7 +32,6 @@ contract FreelanceDApp {
     }
 
     // This Function helps in posting the job
-
     function postJob(string memory _title, string memory _description) public payable {
         require(msg.value > 0, "Payment must be greater than zero");
 
