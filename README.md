@@ -11,7 +11,7 @@ To create a decentralized freelancing platform that empowers clients and freelan
 - **Job Acceptance**: Freelancers can browse and accept open jobs.
 - **Secure Payment**: Funds are held in the contract and automatically transferred upon job completion.
 - **Decentralized**: No middleman or centralized authority; all transactions are handled on-chain.
-- **Event Logging**: Key actions such as posting, accepting, and completing jobs are logged via events.
+- **Event Logging**: Key actions such as posting, accepting, and completing jobs are logged via events
 
 ## 🔭 Future Scope
 - **Dispute Resolution Mechanism**: Introduce arbitration for conflict resolution.
