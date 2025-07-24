@@ -18,7 +18,7 @@ To create a decentralized freelancing platform that empowers clients and freelan
 - **Reputation System**: Build a rating system for both clients and freelancers.
 - **UI Integration**: Develop a full frontend using React + Web3.js or Ethers.js.
 - **Escrow Enhancements**: Include milestone-based payments and partial payouts.
-- **Multi-chain Deployment**: Deploy on L2 solutions like Polygon or Arbitrum for lower gas fees
+- **Multi-chain Deployment**: Deploy on L2 solutions like Polygon or Arbitrum for lower gas fees.
 
 ## Contract Details: 0xf2d286150C81090B66d52792a85a1D95631e394D
 
