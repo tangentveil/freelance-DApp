@@ -6,7 +6,7 @@ FreelanceDApp is a decentralized application (dApp) built on the Ethereum blockc
 ## Project Vision
 To create a decentralized freelancing platform that empowers clients and freelancers by ensuring transparency, reducing transaction fees, and eliminating the risks of scams or payment fraud through the use of smart contracts.
 
-## 🌟 Key Features
+## Key Features
 - **Job Posting**: Clients can post jobs with a title, description, and upfront payment.
 - **Job Acceptance**: Freelancers can browse and accept open jobs.
 - **Secure Payment**: Funds are held in the contract and automatically transferred upon job completion.
