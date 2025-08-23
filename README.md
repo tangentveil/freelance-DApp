@@ -8,7 +8,7 @@ To create a decentralized freelancing platform that empowers clients and freelan
 
 ## Key Features
 - **Job Posting**: Clients can post jobs with a title, description, and upfront payment.
-- **Job Acceptance**: Freelancers can browse and accept open jobs.
+- **Job Acceptance**: Freelancers can browse and accept open jobs
 - **Secure Payment**: Funds are held in the contract and automatically transferred upon job completion.
 - **Decentralized**: No middleman or centralized authority; all transactions are handled on-chain.
 - **Event Logging**: Key actions such as posting, accepting, and completing jobs are logged via events.
@@ -25,6 +25,7 @@ To create a decentralized freelancing platform that empowers clients and freelan
 ![image](https://github.com/user-attachments/assets/fa9c8f94-f473-4f04-9ff1-6bef7059cf51)
 
 ---
+
 
 
 
