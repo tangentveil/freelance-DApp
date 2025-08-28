@@ -15,7 +15,7 @@ To create a decentralized freelancing platform that empowers clients and freelan
 - **Event Logging**: Key actions such as posting, accepting, and completing jobs are logged via events.
 
 ## 🔭 Future Scope
-- **Dispute Resolution Mechanism**: Introduce arbitration for conflict resolution.
+- **Dispute Resolution Mechanism**: Introduce arbitration for conflict resolution
 - **Reputation System**: Build a rating system for both clients and freelancers.
 - **UI Integration**: Develop a full frontend using React + Web3.js or Ethers.js
 - **Escrow Enhancements**: Include milestone-based payments and partial payouts
@@ -26,6 +26,7 @@ To create a decentralized freelancing platform that empowers clients and freelan
 ![image](https://github.com/user-attachments/assets/fa9c8f94-f473-4f04-9ff1-6bef7059cf51)
 
 ---
+
 
 
 
